@@ -1,3 +1,10 @@
+en: This is my first project in Next.js and MongoDB, which is an application for creating technical support request tickets. I've learned how to set up a MongoDB Atlas database and seamlessly connect it to my Next.js app using the Mongoose library. Whether you're a beginner or an experienced developer, this project will help you master the art of building web applications with the latest technologies. 
+
+pt: Este é meu primeiro projeto em Next.js e MongoDB, que é uma aplicação para criação de tickets de solicitação de suporte técnico. Aprendi como configurar um banco de dados MongoDB Atlas e conectá-lo perfeitamente ao meu aplicativo Next.js usando a biblioteca Mongoose. Quer você seja um desenvolvedor iniciante ou experiente, este projeto o ajudará a dominar a arte de construir aplicações web com as tecnologias mais recentes.
+
+es: Este es mi primer proyecto en Next.js y MongoDB, que es una aplicación para crear tickets de solicitud de soporte técnico. Aprendí cómo configurar una base de datos MongoDB Atlas y conectarla sin problemas a mi aplicación Next.js usando la biblioteca Mongoose. Ya sea un desarrollador principiante o experimentado, este proyecto lo ayudará a dominar el arte de crear aplicaciones web con las últimas tecnologías.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
