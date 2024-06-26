@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Timestamp } from "mongodb";
 import DeleteBlock from "./DeleteBlock";
 import PriorityDisplay from "./PriorityDisplay";
